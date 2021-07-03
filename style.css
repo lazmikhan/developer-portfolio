@@ -1,0 +1,36 @@
+#toyasname{
+    color: rgb(224, 28, 28);
+}
+#para1{
+    text-align: left;
+}
+h1{
+    font-size: 50px;
+}
+body    {
+
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.linkbutton{
+    color:darkblue;
+text-decoration: none;
+background-image: linear-gradient(red,salmon );
+font-weight: 400;
+border-radius: 10%;
+padding: 3%;
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
